@@ -1,0 +1,11 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "Spotify clone with TailwindCSS",
+  "main": "index.js",
+  "author": "Davi Honorato",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
